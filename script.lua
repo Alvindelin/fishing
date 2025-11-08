@@ -32,7 +32,7 @@ main.Parent = screenGui
 -- Shadow
 local shadow = Instance.new("ImageLabel")
 shadow.Name = "Shadow"
-shadow.Image = "rbxassetid://1316045217"
+shadow.Image = "rbxassetid://4483362458"
 shadow.BackgroundTransparency = 1
 shadow.Size = UDim2.new(1,20,1,20)
 shadow.Position = UDim2.new(0,-10,0,-10)
